@@ -1,3 +1,3 @@
 # IFR
 
-Code for "Training with Noisy Labels via Iterative Filtering and Reweighting"
+Code for "Iterative Filtering and Reweighting Samples for Noisy Label Training" 
